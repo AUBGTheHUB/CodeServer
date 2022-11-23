@@ -1,0 +1,4 @@
+bind-addr: 0.0.0.0:4200
+auth: password
+password: misho1234 
+cert: false
